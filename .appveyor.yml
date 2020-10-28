@@ -13,4 +13,4 @@ install:
 
 build_script:
   -  chmod +x gradlew
-  - ./gradlew test --info: Stop-Process -Id $App.Idadlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
+ 
